@@ -25,7 +25,11 @@ Udemig Education is a stylish and responsive web interface built using **HTML**,
 ## 📸 Preview
 
 
-Uploading ezgif-82f6a88b09f0ac.mp4…
+
+https://github.com/user-attachments/assets/0ca37148-007f-40ee-9ffc-d099c2e7dc0e
+
+
+
 
 
 
